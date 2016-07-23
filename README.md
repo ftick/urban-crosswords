@@ -1,4 +1,4 @@
-# urban-crosswords
+# Urban Crosswords
 
 # Examples
 
