@@ -2,8 +2,10 @@
 
 # Usage
 
-1) Run list.java (only during first run)
-2) Run game.java (runs run.py, which generates the actual crossword)
+1. Run list.java (only during first run)
+2. Run game.java (runs run.py, which generates the actual crossword)
+3. ???
+4. Profit!
 
 # Examples
 
