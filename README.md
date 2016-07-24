@@ -1,5 +1,10 @@
 # Urban Crosswords
 
+# Usage
+
+1) Run list.java (only during first run)
+2) Run game.java (runs run.py, which generates the actual crossword)
+
 # Examples
 
 Program outputs this crossword puzzle:
@@ -10,5 +15,5 @@ This is the puzzle's answer.
 
 ![alt text][logo2]
 
-[logo1]: https://github.com/ftick/urban-crosswords/blob/master/example1.png "Logo Title Text 2"
-[logo2]: https://github.com/ftick/urban-crosswords/blob/master/example2.png "Logo Title Text 2"
+[logo1]: https://github.com/ftick/urban-crosswords/blob/master/example1.png 
+[logo2]: https://github.com/ftick/urban-crosswords/blob/master/example2.png
