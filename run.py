@@ -1120,3 +1120,7 @@ print a.legend()
 #print a.debug
 #end_full = float(time.time())
 #print end_full - start_full
+
+file1 = open(DIR+"\\cross.txt","w")
+file1.write(a.display()+"\n")
+file1.write(a.legend())
